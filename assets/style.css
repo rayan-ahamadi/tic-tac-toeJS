@@ -201,3 +201,7 @@ body section{
   margin: 2% auto;
   background-color: var(--secondary-color);
 }
+
+body h3{
+  font-size: clamp(1rem, 5vw, 6rem);
+}
